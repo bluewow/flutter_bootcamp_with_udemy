@@ -1,2 +1,5 @@
 # flutter_bootcamp_with_udemy
-flutter with udemy
+
+### 1 week
+- flutter 특징
+- widget 과 example deploy
