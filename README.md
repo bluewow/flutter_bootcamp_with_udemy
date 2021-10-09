@@ -2,4 +2,5 @@
 
 ### 1 week
 - flutter 특징
-- widget 과 example deploy
+- widget
+- image, yaml, deploy
